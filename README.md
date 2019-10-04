@@ -5,6 +5,9 @@
 * A trojan client for Android.
 * Bypass mode with Clash, and all other possible benefit like blocking ads.
 
+## download
+[release page](https://github.com/oasiscifr/cigniter/releases)
+
 ## Thanks
 
 * Dreamacro/clash [MIT](https://github.com/Dreamacro/clash/blob/master/LICENSE)
