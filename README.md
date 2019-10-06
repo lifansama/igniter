@@ -3,9 +3,10 @@
 [![CircleCI](https://circleci.com/gh/trojan-gfw/igniter/tree/master.svg?style=svg)](https://circleci.com/gh/trojan-gfw/igniter/tree/master)
 
 * A trojan client for Android.
-* Bypass mode with Clash, and all other possible benefit like blocking ads.
+* Bypass mode with Clash
+* All other possible benefit from Clash like blocking ads.
 
-## download
+## Download
 [release page](https://github.com/oasiscifr/cigniter/releases)
 
 ## Thanks
